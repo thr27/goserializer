@@ -3,7 +3,7 @@
 package serializer
 
 import (
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 // Serializer allows you to encapsulate
